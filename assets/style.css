@@ -119,10 +119,11 @@ body {
 }
 .gallery-item {
 	position: absolute;
-	width: 100%;
+	width: 500px;
 	height: 100%;
 	object-fit: cover;
 	padding: .5em;
+
 }
 .mg-prev, .mg-next {
 	width: 30px;
